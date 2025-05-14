@@ -6,4 +6,4 @@
 
 ## GitHub Pages Links
 
-- [Lab6 page](??)
+- [Lab6 page](https://klloyd0.github.io/Lab6/)
